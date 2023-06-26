@@ -1,6 +1,6 @@
 # Deep Learning Specialization Coursera [UPDATED Version 2023]
 
-[This repository contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
+This repository contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
