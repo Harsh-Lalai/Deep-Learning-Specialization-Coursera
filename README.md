@@ -1,16 +1,11 @@
-# Deep Learning Specialization Coursera [UPDATED Version 2021]
-[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20Specialization%20Coursera-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera)
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)
-![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)
+# Deep Learning Specialization Coursera [UPDATED Version 2023]
 
-[This repo](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
+[This repository contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
 ## What's New
-This Specialization was updated in April 2021 to include developments in deep learning and programming frameworks. One of the most major changes was shifting from Tensorflow 1 to Tensorflow 2. Also, new materials were added.
+This Specialization was updated in June 2023 to include developments in deep learning and programming frameworks. One of the most major changes was shifting from Tensorflow 1 to Tensorflow 2. Also, new materials were added.
 However, Most of the old online repositories still don't have old codes.
 This repo contains updated versions of the assignments.
 Happy Learning :)
@@ -64,14 +59,3 @@ Happy Learning :)
 ## Disclaimer
 I've uploaded these solutions here, only for being used as a help by those who get stuck somewhere. It may help them to save some time. I strongly recommend everyone to not directly copy any part of the code (from here or anywhere else) while doing the assignments of this specialization. The assignments are fairly easy and one learns a great deal of things upon doing these. Thanks to the deeplearning.ai team for giving this treasure to us.
 
-
-## Connect with me
-Name: Abdur Rahman
-
-Institution: Indian Institute of Technology Delhi
-
-Find me on:
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-0b84341a0/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/abdur75648)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdur75648)
